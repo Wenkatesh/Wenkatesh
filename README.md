@@ -25,6 +25,8 @@
 Eager to apply analytical skills and technical knowledge to real-world challenges. Always learning and open to opportunities in Data Science, Business Intelligence, and Artificial Intelligence 
 
 Let’s connect !!
+
+- My LinkedIn : www.linkedin.com/in/venkatesh-madaparthi-45b6b5237
 <!--
 **Wenkatesh/Wenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
